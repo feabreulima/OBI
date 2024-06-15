@@ -13,5 +13,5 @@ for i in range(n):
       indiceX += 1
       
   indiceX = 0    
-    
+  
 for i in range(n):  print(f'{matriz[i]}')
